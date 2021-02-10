@@ -1,19 +1,3 @@
-# strapi-template-portfolio
+# strapi-template-virtual-event-starter
 
-A Strapi template to create Strapi projects pre-configured for portfolio sites.
-
-## Usage
-
-```bash
-# Using Yarn
-yarn create strapi-app my-app-name --template https://github.com/strapi/strapi-template-portfolio
-
-# Or using NPM
-npx create-strapi-app my-app-name --template https://github.com/strapi/strapi-template-portfolio
-```
-
-## Starters
-
-This template is used by the following starters:
-
-* [Strapi Starter Gridsome Portfolio](https://strapi.io/starters/strapi-starter-gridsome-portfolio)
+A Strapi template to create Strapi projects pre-configured to work with [Vercel's Virtual Event Starters Kit](https://vercel.com/virtual-event-starter-kit).
