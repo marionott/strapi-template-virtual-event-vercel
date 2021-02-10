@@ -664,7 +664,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Using the Next.js Image Component",
       "start": "2020-10-27T08:30:00.000Z",
       "end": "2020-10-27T09:10:00.000Z",
@@ -676,10 +676,10 @@
       ]
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "You Don't Need A Compiler: A Hot Take",
-      "start": "2020-10-27T08:30:00.000Z",
-      "end": "2020-10-27T09:10:00.000Z",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "4",
       "title": "Why Next.js Is Great for You",
       "start": "2020-10-27T08:30:00.000Z",
       "end": "2020-10-27T09:10:00.000Z",
@@ -703,10 +703,10 @@
       ]
     },
     {
-      "id": "6",
+      "id": "5",
       "title": "Serverless Databases at the Edge",
-      "start": "2020-10-27T08:30:00.000Z",
-      "end": "2020-10-27T09:10:00.000Z",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -715,7 +715,7 @@
       ]
     },
     {
-      "id": "13",
+      "id": "6",
       "title": "Deploying to the Edge with Vercel",
       "start": "2020-10-27T08:30:00.000Z",
       "end": "2020-10-27T09:10:00.000Z",
@@ -730,7 +730,7 @@
       ]
     },
     {
-      "id": "16",
+      "id": "7",
       "title": "React Fundamentals",
       "start": "2020-10-27T08:30:00.000Z",
       "end": "2020-10-27T09:10:00.000Z",
@@ -745,10 +745,10 @@
       ]
     },
     {
-      "id": "20",
+      "id": "8",
       "title": "Building Apps So Fast Your Boss is Confused",
-      "start": "2020-10-27T08:30:00.000Z",
-      "end": "2020-10-27T09:10:00.000Z",
+      "start": "2020-10-27T09:50:00.000Z",
+      "end": "2020-10-27T10:30:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -757,10 +757,10 @@
       ]
     },
     {
-      "id": "21",
+      "id": "9",
       "title": "What are Vercelians?",
-      "start": "2020-10-27T08:30:00.000Z",
-      "end": "2020-10-27T09:10:00.000Z",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -772,7 +772,7 @@
       ]
     },
     {
-      "id": "2",
+      "id": "10",
       "title": "How to Design in Next.js",
       "start": "2020-10-27T09:10:00.000Z",
       "end": "2020-10-27T09:50:00.000Z",
@@ -784,7 +784,7 @@
       ]
     },
     {
-      "id": "9",
+      "id": "11",
       "title": "Incrementally Adopting Next.js",
       "start": "2020-10-27T09:10:00.000Z",
       "end": "2020-10-27T09:50:00.000Z",
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "id": "18",
+      "id": "12",
       "title": "Building Your First E-Commerce Site",
       "start": "2020-10-27T09:10:00.000Z",
       "end": "2020-10-27T09:50:00.000Z",
@@ -808,10 +808,10 @@
       ]
     },
     {
-      "id": "22",
+      "id": "13",
       "title": "Using a CMS with Next.js (And Why)",
-      "start": "2020-10-27T09:10:00.000Z",
-      "end": "2020-10-27T09:50:00.000Z",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": "24",
+      "id": "14",
       "title": "Using i18n Routing with Next 10",
       "start": "2020-10-27T09:10:00.000Z",
       "end": "2020-10-27T09:50:00.000Z",
@@ -838,7 +838,7 @@
       ]
     },
     {
-      "id": "7",
+      "id": "15",
       "title": "Is Twitter Good Or Bad For You?",
       "start": "2020-10-27T09:50:00.000Z",
       "end": "2020-10-27T10:30:00.000Z",
@@ -850,7 +850,7 @@
       ]
     },
     {
-      "id": "11",
+      "id": "16",
       "title": "How To Use Dynamic Routing",
       "start": "2020-10-27T09:50:00.000Z",
       "end": "2020-10-27T10:30:00.000Z",
@@ -862,7 +862,7 @@
       ]
     },
     {
-      "id": "12",
+      "id": "17",
       "title": "When And When Not To useEffect",
       "start": "2020-10-27T09:50:00.000Z",
       "end": "2020-10-27T10:30:00.000Z",
@@ -874,10 +874,10 @@
       ]
     },
     {
-      "id": "14",
+      "id": "18",
       "title": "Will React Survive in 2030?",
-      "start": "2020-10-27T09:50:00.000Z",
-      "end": "2020-10-27T10:30:00.000Z",
+      "start": "2020-10-27T10:30:00.000Z",
+      "end": "2020-10-27T11:10:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -888,8 +888,8 @@
     {
       "id": "19",
       "title": "How To Do Proper Accessibility",
-      "start": "2020-10-27T09:50:00.000Z",
-      "end": "2020-10-27T10:30:00.000Z",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -898,10 +898,10 @@
       ]
     },
     {
-      "id": "23",
+      "id": "20",
       "title": "From Zero to Production",
-      "start": "2020-10-27T09:50:00.000Z",
-      "end": "2020-10-27T10:30:00.000Z",
+      "start": "2020-10-27T09:10:00.000Z",
+      "end": "2020-10-27T09:50:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
@@ -910,7 +910,7 @@
       ]
     },
     {
-      "id": "8",
+      "id": "21",
       "title": "Using MDX for Markdown",
       "start": "2020-10-27T10:30:00.000Z",
       "end": "2020-10-27T11:10:00.000Z",
@@ -922,7 +922,7 @@
       ]
     },
     {
-      "id": "10",
+      "id": "22",
       "title": "React vs. Vue vs. Svelte",
       "start": "2020-10-27T10:30:00.000Z",
       "end": "2020-10-27T11:20:00.000Z",
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "id": "15",
+      "id": "23",
       "title": "10 Reasons You Don't Need a Custom Server",
       "start": "2020-10-27T10:30:00.000Z",
       "end": "2020-10-27T11:20:00.000Z",
@@ -946,10 +946,10 @@
       ]
     },
     {
-      "id": "17",
+      "id": "24",
       "title": "Using Preview Deploys with Vercel",
-      "start": "2020-10-27T10:30:00.000Z",
-      "end": "2020-10-27T11:10:00.000Z",
+      "start": "2020-10-27T08:30:00.000Z",
+      "end": "2020-10-27T09:10:00.000Z",
       "description": "In this talk, you'll learn how Next.js and Vercel help transform the workflow of front-end developers. Hear about the latest developments with Next.js 10 and deploy your application with one click to Vercel.",
       "speakers": [
         {
