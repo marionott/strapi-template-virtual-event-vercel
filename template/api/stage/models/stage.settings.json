@@ -20,7 +20,6 @@
       "type": "string"
     },
     "schedule": {
-      "via": "stage",
       "collection": "talk"
     },
     "order": {
