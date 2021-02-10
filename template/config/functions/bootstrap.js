@@ -96,7 +96,7 @@ async function importSponsors() {
 
 async function importSpeakers() {
   return speakers.map(async (speaker) => {
-    const image = getFileData(`${speaker.slug}.jpg`);
+    const image = getFileData(`${speaker.slug}.jpeg`);
     
     const files = {
       image
@@ -137,9 +137,9 @@ async function importSeedData() {
   // Create all entries
   await importSponsors();
   await importJobs();
-  await importSpeakers();
   await importStages();
   await importTalks();
+  await importSpeakers();
 };
 
 module.exports = async () => {
