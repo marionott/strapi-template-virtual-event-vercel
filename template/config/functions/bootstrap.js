@@ -127,11 +127,11 @@ async function importTalks() {
 async function importSeedData() {
   // Allow read of application content types
   await setPublicPermissions({
-    about: ['find'],
-    category: ['find', 'findone'],
-    global: ['find'],
-    home: ['find'],
-    project: ['find', 'findone'],
+    sponsor: ['find', 'findone'],
+    job: ['find', 'findone'],
+    speaker: ['find', 'findone'],
+    stage: ['find', 'findone'],
+    talk: ['find', 'findone'],
   });
   
   // Create all entries
