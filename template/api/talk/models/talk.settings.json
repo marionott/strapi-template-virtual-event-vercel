@@ -23,10 +23,6 @@
     "description": {
       "type": "text"
     },
-    "stage": {
-      "model": "stage",
-      "via": "schedule"
-    },
     "speakers": {
       "collection": "speaker",
       "via": "talk"
